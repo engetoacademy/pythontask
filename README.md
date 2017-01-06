@@ -1,7 +1,7 @@
 # Python entry task
 Entry task to python intermediate course
 
-Your task is to create a program that would simulate **Cows and Bulls** game.
+Your task is to create a program that would simulate **Bulls and Cows** game.
 
 ![alt tag](https://raw.githubusercontent.com/engetoacademy/pythontask/master/bullsandcows.png)
 

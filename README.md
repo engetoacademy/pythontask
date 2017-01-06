@@ -3,10 +3,12 @@ Entry task to python intermediate course
 
 Your task is to create a program that would simulate **Cows and Bulls** game.
 
+![alt tag](https://raw.githubusercontent.com/engetoacademy/pythontask/master/bullsandcows.png)
+
 Bulls and Cows
 --------------
 
-First of all, the computer will generate a 4-digit secret number. The digits must be all different. Then, in turn, the user tries to guess their computer's number who gives the number of matches. If the matching digits are in their **right** positions, they are "bulls", if in **different** positions, they are "cows".
+First of all, the computer will generate a 4-digit secret number. The digits must be all different. Then, in turn, the user tries to guess their computer's number. The user inputs a number and the computer responds with the number of matching digits. If the matching digits are in their **right** positions, they are "bulls", if in **different** positions, they are "cows".
 
 For example, let's say the number is 2017.
 A sample interaction might look like this:

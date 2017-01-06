@@ -1,4 +1,4 @@
-# pythontask
+# Python entry task
 Entry task to python intermediate course
 
 Your task is to create a program that would simulate **Cows and Bulls** game.

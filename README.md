@@ -42,4 +42,5 @@ Bonus
 -----
 
 You can extend the functionality of the program as you wish.
+
 Be creative, everything outside of the basic scope will be appreciated :)

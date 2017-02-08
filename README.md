@@ -37,3 +37,9 @@ The name of the complete program should be **bullsandcows.py**.
 Send your submissions to **tech@engeto.com** and we will evaluate your solution.
 
 We will let you know 3 days before the course start if you've been accepted.
+
+Bonus
+-----
+
+You can extend the functionality of the program as you wish.
+Be creative, everything outside of the basic scope will be appreciated :)
